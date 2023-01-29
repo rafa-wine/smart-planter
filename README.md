@@ -20,7 +20,7 @@ According to the project, it is concluded that technological development is a fu
 - Soil Moisture Sensor
 - Sensor Photoresistor LDR
 
-# Animations included:
+# 🎞️ Animations included:
 
 ![image](animations.png) Animations
 
